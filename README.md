@@ -17,7 +17,7 @@ Organizamos o repositório para facilitar a navegação entre a documentação d
 * **`Documentação Geral/`**: Contém o arquivo principal do TCC nos formatos  (`.docx`) e pronto para leitura (`.pdf`), estruturado conforme as normas da ABNT.
 * **`Documentação de Requisitos/`**: Reúne os documentos de especificação de requisitos do sistema (versões antigas e atualizadas), detalhando o escopo funcional do software.
 * **`Figuras/`**: Armazena diagramas e esquemas que auxiliam na compreensão do fluxo do sistema.
-* **Raiz do Repositório**: Contém arquivos avulsos de fichamento e rascunhos iniciais do projeto (`Sistema de análise estudantil.docx`).
+* **`Modelos/`**: Contém arquivos modelo de documentos usados ao decorrer do trabalho. Exemplo: (`Modelo - Fichamento.docx`).
 
 ---
 
