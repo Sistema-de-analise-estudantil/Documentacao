@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-O **SAE (Sistema de Análise Estudantil)** é um projeto desenvolvido como Trabalho de Conclusão de Curso (TCC). O objetivo principal do sistema é Auxiliar alunos na criação de seus trabalhos acadêmicos e tornar esse conteúdo ciêntifico acessível.
+O **SAE (Sistema de Análise Estudantil)** é um projeto desenvolvido como Trabalho de Conclusão de Curso (TCC). O objetivo principal do sistema é auxiliar alunos na criação de seus trabalhos acadêmicos e tornar esse conteúdo ciêntifico acessível.
 
 ---
 
