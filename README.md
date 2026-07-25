@@ -18,6 +18,7 @@ Organizamos o repositório para facilitar a navegação entre a documentação d
 * **`Documentação de Requisitos/`**: Reúne os documentos de especificação de requisitos do sistema (versões antigas e atualizadas), detalhando o escopo funcional do software.
 * **`Figuras/`**: Armazena diagramas e esquemas que auxiliam na compreensão do fluxo do sistema.
 * **`Modelos/`**: Contém arquivos modelo de documentos usados ao longo do trabalho. Exemplo: (`Modelo - Fichamento.docx`).
+* **`Documentação de Requisitos/`**: Reúne os documentos de Resumo e Abstract usados na documentação Geral.
 
 ---
 
