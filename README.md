@@ -45,7 +45,7 @@ Se você deseja ler a documentação, recomendamos os seguintes arquivos:
 ## Autores
 
 * **João Pedro** - *Documentação e Manutenção do repositório* - [@Joa6-Pedro](https://github.com/Joa6-Pedro)
-* **Guilherme Pereira** - *Documentação e Manutenção do repositório* - [@SkyyPG](https://github.com/SkyyPG)
+* **Guilherme Pereira** - *Documentação e Manutenção do repositório* - [@skyy-gg](https://github.com/skyy-gg)
 
 ---
 *Nota: Este repositório é focado estritamente na parte acadêmica, documental e de modelagem do projeto.*
